@@ -44,6 +44,7 @@ typedef FormData_pg_dist_node *Form_pg_dist_node;
 #define Anum_pg_dist_node_nodeport 4
 #define Anum_pg_dist_node_noderack 5
 #define Anum_pg_dist_node_hasmetadata 6
+#define Anum_pg_dist_node_state 7
 
 #define GROUPID_SEQUENCE_NAME "pg_dist_groupid_seq"
 #define NODEID_SEQUENCE_NAME "pg_dist_node_nodeid_seq"
